@@ -7,7 +7,7 @@ Introduction
 Cardiovascular disease (CVD) is one of the leading causes of death worldwide. Early prediction and prevention of CVD can significantly reduce the risk of mortality. This project uses machine learning algorithms to predict the likelihood of CVD based on various risk factors.
 
 Dataset
-The dataset used for this project is the https://archive.ics.uci.edu/ml/datasets/heart+disease from the UCI Machine Learning Repository. The dataset contains 303 instances with 14 attributes, including:
+The dataset used for this project is taken from kaggle. The dataset contains 70,000 instances with 13 attributes.
 
 Machine Learning Models
 The following machine learning models were implemented and compared:
